@@ -1,7 +1,7 @@
-# Desafio "Portifólio" Rocketseat
+<h1 align="center"> Desafio "Portifólio" </h1>
 
 <p align="center">
-  Neste desafio você poderá criar uma página web para que seja seu portfolio e currículo. Utilizando HTML e CSS.
+  Um desafio de uma página web para que seja seu portfolio e currículo.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Meu próprio portifólio. Veja ele clicando nesse [link](https://matheusfdosan.github.io/desafio-portifolio-rocketseat/).
+Meu próprio portifólio. Veja ele clicando nesse [link](https://matheusfdosan.github.io/desafio-portifolio/).
 
 ## 🔖 Layout
 
